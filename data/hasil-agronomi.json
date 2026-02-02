@@ -1,0 +1,47 @@
+{
+  "sawah": [
+    "/uploads/sawah1.jpeg",
+    "/uploads/sawah2.jpeg",
+    "/uploads/sawah3.jpg",
+    "/uploads/sawah4.jpg",
+    "/uploads/sawah5.jpeg",
+    "/uploads/sawah6.jpeg",
+    "/uploads/sawah7.jpeg"
+  ],
+  "kebun": [
+    "/uploads/kebun1.jpeg",
+    "/uploads/kebun2.jpeg",
+    "/uploads/kebun3.jpeg",
+    "/uploads/kebun4.jpeg"
+  ],
+  "kolamikan": [
+    "/uploads/kolamikan1.jpeg",
+    "/uploads/kolamikan2.jpeg",
+    "/uploads/kolamikan3.jpeg"
+  ],
+  "budidayakayu": [
+    "/uploads/kayu1.png",
+    "/uploads/kayu2.jpeg"
+  ],
+  "peternakan": [
+    "/uploads/peternakan1.png",
+    "/uploads/peternakan2.png",
+    "/uploads/peternakan3.png",
+    "/uploads/peternakan4.png"
+  ],
+  "perikanan": [
+    "/uploads/perikanan1.png",
+    "/uploads/perikanan2.png",
+    "/uploads/perikanan3.png",
+    "/uploads/perikanan4.jpeg",
+    "/uploads/perikanan5.jpeg",
+    "/uploads/perikanan6.jpeg",
+    "/uploads/perikanan7.jpeg",
+    "/uploads/perikanan8.jpeg"
+  ],
+  "sumberair": [
+    "/uploads/sumberair1.jpeg",
+    "/uploads/sumberair2.png",
+    "/uploads/sumberair3.jpeg"
+  ]
+}
